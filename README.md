@@ -62,4 +62,4 @@ CODESYS Visualization arayüzü ile operatör paneli simüle edilmiştir:
 Canlı simülasyon testi çıktısı:
 - **Parti Sonu:** 5 ürün tamamlandığında sistem sarı renkli PARTİ TAMAMLANDI durumunu tetiklemiştir.
 - **Süre Analizi:** Parti içindeki en uzun çevrim süresi (17.863s) tespit edilmiştir.
-- **Kalite Eşik Kontrol
+- **Kalite Eşik Kontrol**
